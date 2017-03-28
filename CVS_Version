@@ -1,0 +1,4 @@
+A version control system keeps track of all work and all changes in a set of files, and allows several developers to collaborate.
+CVS use a client-server architecture.
+For example if we have a file called "A" and it has three different versions.Server stores all the project and its history and clients connect to the server inorder to "check out" a complete copy of the project.
+If we want to make any changes to the current version of the project,work on it and "check in" their changes.
